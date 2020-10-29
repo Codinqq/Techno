@@ -6,4 +6,4 @@ This is now opensource, and here because I want it to be here, so I can look bac
 
 > **WARNING** This bot is full of bugs, do not use this if you don't know how to fix bugs, and have experience in discord.js / node.js.
 
-> The token in config.json is not valid, the user with that token was removed when it was deprecated.
+> Change the `btoken` with the beta token, and `otoken` with the official token, `mongoose` is the official mongodb cluster, and `bmongo` is the beta mongodb cluster.
