@@ -1,0 +1,8 @@
+{
+    "color": "#75a8fa",
+    "version": "2.1.3",
+    "btoken": "Beta Token",
+    "otoken": "Official Token",
+    "mongoose": "Official Mongoose",
+    "bmongo": "Beta Mongoose"
+}
